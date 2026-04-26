@@ -7,25 +7,14 @@ I focus on writing **clean, scalable, and secure code**, and enjoy solving real-
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/SpringMVC-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven)
-
----
-
-## 📊 GitHub Stats
-
-![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vikasgabale9\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikasgabale9\&layout=compact\&theme=tokyonight)
+* **Programming:** Java
+* **Backend Technologies:** Spring Boot, Spring MVC, Hibernate, JPA
+* **Database:** MySQL, Oracle SQL
+* **API & Security:** REST APIs, Spring Security, JWT (Learning)
+* **Tools:** Git, GitHub, Postman, Maven
+* **Concepts:** OOP, Data Structures, Problem Solving
 
 ---
 
@@ -50,6 +39,7 @@ I focus on writing **clean, scalable, and secure code**, and enjoy solving real-
 * Add and manage questions
 * Quiz attempt and score calculation
 * Spring MVC + Thymeleaf UI
+* Oracle database integration
 
 🔗 [View Project](https://github.com/Vikasgabale9/QuizApp)
 
