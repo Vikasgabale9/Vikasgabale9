@@ -1,146 +1,166 @@
-# 👋 Hi, I'm Vikas Gabale
+# Hi, I'm Vikas Gabale
 
-🚀 **Java Backend Developer | Spring Boot | REST APIs**
+Java Backend Developer focused on building secure and maintainable backend applications using Spring Boot, REST APIs, Spring Security, Hibernate JPA, and MySQL.
 
-I am a passionate **Java Backend Developer** with hands-on experience in building real-world backend applications using **Spring Boot, Spring MVC, Hibernate, and REST APIs**.
-I focus on writing **clean, scalable, and secure code**, and enjoy solving real-world problems through backend development.
-
----
-
-## 🚀 Skills
-
-* **Programming:** Java
-* **Backend Technologies:** Spring Boot, Spring MVC, Hibernate, JPA
-* **Database:** MySQL, Oracle SQL
-* **API & Security:** REST APIs, Spring Security, JWT (Learning)
-* **Tools:** Git, GitHub, Postman, Maven
-* **Concepts:** OOP, Data Structures, Problem Solving
+I enjoy designing backend systems, implementing clean API architectures, and solving real-world problems through Java backend development.
 
 ---
 
-## 📌 Featured Projects
+## Tech Stack
 
-### 🔍 Smart Lost & Found System
+### Programming
 
-👉 Real-world problem-solving application
+* Java
 
-* Allows users to report and find lost items
-* Backend system built using Spring Boot
-* Structured API design for managing items
+### Backend Development
 
-🔗 [View Project](https://github.com/Vikasgabale9/lostfound-tracker)
+* Spring Boot
+* Spring MVC
+* Spring Security
+* REST APIs
+* Hibernate
+* JPA
+* Spring Data JPA
 
----
+### Database
 
-### 🧠 Quiz Application
+* MySQL
+* Oracle SQL
+* H2 Database
 
-👉 Dynamic MCQ-based quiz system
+### Tools & Technologies
 
-* Add and manage questions
-* Quiz attempt and score calculation
-* Spring MVC + Thymeleaf UI
-* Oracle database integration
+* Git
+* GitHub
+* Maven
+* Postman
+* Swagger OpenAPI
 
-🔗 [View Project](https://github.com/Vikasgabale9/QuizApp)
+### Core Concepts
 
----
-
-### 🔐 Student Management System (OTP + Security)
-
-👉 Secure authentication-based backend system
-
-* Email OTP verification using JavaMailSender
-* Spring Security with BCrypt password encryption
-* OTP expiry handling using Scheduler
-
-🔗 [View Project](https://github.com/Vikasgabale9/Student-Management-System-with-OTP-Security)
-
----
-
-### 🤖 Telegram Trading Bot
-
-👉 Real-time signal processing system
-
-* Telegram Bot API integration
-* Command-based interaction
-* Signal processing and logging system
-
-🔗 [View Project](https://github.com/Vikasgabale9/Telegram-Trading-Signal-Bot)
+* Object Oriented Programming
+* Data Structures
+* Exception Handling
+* Layered Architecture
+* API Design
 
 ---
 
-### 🚆 Ticket Booking Application
+## Featured Projects
 
-👉 External API integration project
+### Smart Lost & Found System
 
-* WebClient for API communication
-* MVC architecture with Thymeleaf
+Backend application developed using Java, Spring Boot, Hibernate JPA, and MySQL for managing lost and found items.
 
-🔗 [View Project](https://github.com/Vikasgabale9/Ticket-Booking-Application)
+Key Features:
+
+* RESTful API development
+* CRUD operations
+* Search and filtering functionality
+* Spring Security authentication
+* Layered architecture implementation
+* Swagger OpenAPI integration
+* Centralized exception handling
+* Pagination and sorting
+
+Repository:
+https://github.com/Vikasgabale9/lostfound-tracker
 
 ---
 
-## 🧠 What I Focus On
+### Quiz Application
 
-* Designing REST APIs
-* Building secure authentication systems
-* Writing clean and maintainable backend code
+Dynamic quiz management system developed using Spring MVC, Thymeleaf, and Oracle Database.
+
+Key Features:
+
+* Question and quiz management
+* Score calculation system
+* MVC architecture implementation
+* Database integration using Oracle
+
+Repository:
+https://github.com/Vikasgabale9/QuizApp
 
 ---
 
-## 📈 Currently Learning
+### Student Management System with OTP Security
+
+Secure backend application implementing authentication and OTP verification mechanisms.
+
+Key Features:
+
+* Email OTP verification
+* Spring Security integration
+* BCrypt password encryption
+* Scheduler-based OTP expiration handling
+
+Repository:
+https://github.com/Vikasgabale9/Student-Management-System-with-OTP-Security
+
+---
+
+### Ticket Booking Application
+
+Backend application demonstrating external API integration using Spring Boot and WebClient.
+
+Key Features:
+
+* API communication using WebClient
+* MVC architecture
+* Thymeleaf integration
+
+Repository:
+https://github.com/Vikasgabale9/Ticket-Booking-Application
+
+---
+
+## Currently Learning
 
 * Microservices Architecture
-* Kafka & Redis
-* System Design Basics
+* Kafka
+* Redis
+* System Design Fundamentals
 
 ---
 
-## 🏆 Certifications & Achievements
+## Certifications
 
-### 🎓 Certifications
-
-* ☕ **Java Certification** — HackerRank
-  🔗 [View Certificate](https://www.hackerrank.com/certificates/5c57919e45ac)
-
-* 🗄️ **SQL Certification** — HackerRank
-  🔗 [View Certificate](https://www.hackerrank.com/certificates/ae4e527d6f89)
-
-* 💼 **Software Engineer Intern Certification** — HackerRank
-  🔗 [View Certificate](https://www.hackerrank.com/certificates/32c00d8174b5)
-
-* 🎓 **Core Java & Advanced Java Training** — Naresh IT
+* HackerRank Java Certification
+* HackerRank SQL Certification
+* HackerRank Software Engineer Intern Certification
+* Core Java and Advanced Java Training - Naresh IT
 
 ---
 
-### 🥇 Achievements
+## Achievements
 
-* 🏆 **Winner — DSA Quiz (Crack DSA)** on Unstop
-  🔗 [View Certificate](https://unstop.com/certificate-preview/bec335e2-8176-49b3-81e7-eef542224fb6)
-
-* 💻 Solved **150+ DSA problems** on LeetCode & HackerRank
-
----
-
-## 💻 Coding Profiles
-
-* 🟠 **LeetCode**
-  🔗 https://leetcode.com/vikasgabale/
-
-* 🟢 **HackerRank**
-  🔗 https://www.hackerrank.com/vikasgabale9
+* Achieved 100 percent score in the Programming section of TCS NQT March 2026
+* Solved more than 150 DSA problems on LeetCode and HackerRank
+* Winner of Crack DSA Quiz on Unstop
 
 ---
 
-## 🌐 Portfolio
+## Coding Profiles
 
-🔗 https://vikasgabale9.github.io/Portfolio/
+LeetCode:
+https://leetcode.com/vikasgabale/
+
+HackerRank:
+https://www.hackerrank.com/vikasgabale9
+
+---
+
+## Portfolio
+
+https://vikasgabale9.github.io/Portfolio/
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-* 💻 GitHub: https://github.com/Vikasgabale9
-* 🔗 LinkedIn: https://www.linkedin.com/in/vikas-gabale
+GitHub:
+https://github.com/Vikasgabale9
 
----
+LinkedIn:
+https://www.linkedin.com/in/vikas-gabale
