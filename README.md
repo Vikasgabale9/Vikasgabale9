@@ -1,18 +1,18 @@
 # Hi, I'm Vikas Gabale
 
-Java Backend Developer focused on building secure and maintainable backend applications using Spring Boot, REST APIs, Spring Security, Hibernate JPA, and MySQL.
+Java Backend Developer building secure REST APIs and backend applications using Java, Spring Boot, Spring Security, Hibernate JPA, and MySQL.
 
-I enjoy designing backend systems, implementing clean API architectures, and solving real-world problems through Java backend development.
+I enjoy designing clean backend architectures, implementing secure authentication systems, and developing scalable RESTful web applications.
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Programming
+## Programming Language
 
 * Java
 
-### Backend Development
+## Backend Development
 
 * Spring Boot
 * Spring MVC
@@ -22,13 +22,13 @@ I enjoy designing backend systems, implementing clean API architectures, and sol
 * JPA
 * Spring Data JPA
 
-### Database
+## Database
 
 * MySQL
 * Oracle SQL
 * H2 Database
 
-### Tools & Technologies
+## Tools & Technologies
 
 * Git
 * GitHub
@@ -36,95 +36,165 @@ I enjoy designing backend systems, implementing clean API architectures, and sol
 * Postman
 * Swagger OpenAPI
 
-### Core Concepts
+## Core Concepts
 
-* Object Oriented Programming
-* Data Structures
+* Object-Oriented Programming
+* Data Structures & Algorithms
 * Exception Handling
 * Layered Architecture
 * API Design
+* Authentication & Authorization
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Smart Lost & Found System
+## 1. Smart Lost & Found Management System
 
-Backend application developed using Java, Spring Boot, Hibernate JPA, and MySQL for managing lost and found items.
+Backend application developed using Java, Spring Boot, Hibernate JPA, Spring Security, and MySQL for managing lost and found items.
 
-Key Features:
+### Key Features
 
-* RESTful API development
+* REST API development
 * CRUD operations
-* Search and filtering functionality
-* Spring Security authentication
+* Authentication & authorization using Spring Security
+* Search & filtering functionality
+* Pagination & sorting
 * Layered architecture implementation
-* Swagger OpenAPI integration
 * Centralized exception handling
-* Pagination and sorting
+* Swagger OpenAPI documentation
 
-Repository:
-https://github.com/Vikasgabale9/lostfound-tracker
+### API Endpoints
+
+```http
+POST /api/auth/register
+POST /api/auth/login
+GET /api/items
+POST /api/items
+PUT /api/items/{id}
+DELETE /api/items/{id}
+```
+
+### Architecture Flow
+
+```text
+Client
+   ↓
+Controller Layer
+   ↓
+Service Layer
+   ↓
+Repository Layer
+   ↓
+H@ Database
+```
+
+### Tech Stack
+
+Java | Spring Boot | Spring Security | Hibernate JPA | MySQL | Swagger OpenAPI
+
+### Repository
+
+[https://github.com/Vikasgabale9/lostfound-tracker](https://github.com/Vikasgabale9/lostfound-tracker)
 
 ---
 
-### Quiz Application
+## 2. Student Management System with OTP Security
 
-Dynamic quiz management system developed using Spring MVC, Thymeleaf, and Oracle Database.
+Secure backend application implementing OTP-based authentication and email verification workflows.
 
-Key Features:
-
-* Question and quiz management
-* Score calculation system
-* MVC architecture implementation
-* Database integration using Oracle
-
-Repository:
-https://github.com/Vikasgabale9/QuizApp
-
----
-
-### Student Management System with OTP Security
-
-Secure backend application implementing authentication and OTP verification mechanisms.
-
-Key Features:
+### Key Features
 
 * Email OTP verification
 * Spring Security integration
 * BCrypt password encryption
 * Scheduler-based OTP expiration handling
+* Authentication workflow implementation
 
-Repository:
-https://github.com/Vikasgabale9/Student-Management-System-with-OTP-Security
+### Tech Stack
+
+Java | Spring Boot | Spring Security | MySQL
+
+### Repository
+
+[https://github.com/Vikasgabale9/Student-Management-System-with-OTP-Security](https://github.com/Vikasgabale9/Student-Management-System-with-OTP-Security)
 
 ---
 
-### Ticket Booking Application
+## 3. Quiz Application
 
-Backend application demonstrating external API integration using Spring Boot and WebClient.
+Dynamic quiz management system developed using Spring MVC, Thymeleaf, and Oracle Database.
 
-Key Features:
+### Key Features
+
+* Question management
+* Quiz handling system
+* Score calculation engine
+* MVC architecture implementation
+* Oracle database integration
+
+### Tech Stack
+
+Java | Spring MVC | Thymeleaf | Oracle Database
+
+### Repository
+
+[https://github.com/Vikasgabale9/QuizApp](https://github.com/Vikasgabale9/QuizApp)
+
+---
+
+## 4. Ticket Booking Application
+
+Backend application demonstrating external API integration using Spring Boot WebClient.
+
+### Key Features
 
 * API communication using WebClient
 * MVC architecture
 * Thymeleaf integration
+* External service integration
 
-Repository:
-https://github.com/Vikasgabale9/Ticket-Booking-Application
+### Tech Stack
 
----
+Java | Spring Boot | WebClient | Thymeleaf
 
-## Currently Learning
+### Repository
 
-* Microservices Architecture
-* Kafka
-* Redis
-* System Design Fundamentals
+[https://github.com/Vikasgabale9/Ticket-Booking-Application](https://github.com/Vikasgabale9/Ticket-Booking-Application)
 
 ---
 
-## Certifications
+# API Documentation
+
+Swagger OpenAPI documentation is integrated into backend applications for API testing and endpoint visualization.
+
+### Swagger Features
+
+* API endpoint documentation
+* Request & response visualization
+* Authentication testing
+* API workflow validation
+
+---
+
+# Achievements
+
+* Achieved 100% score in the Programming section of TCS NQT March 2026
+* Solved 150+ DSA problems on LeetCode and HackerRank
+* Winner of Crack DSA Quiz on Unstop
+
+---
+
+# Currently Exploring
+
+* Microservices fundamentals
+* Redis caching concepts
+* Kafka messaging basics
+* System design fundamentals
+
+---
+
+# Certifications
 
 * HackerRank Java Certification
 * HackerRank SQL Certification
@@ -133,34 +203,36 @@ https://github.com/Vikasgabale9/Ticket-Booking-Application
 
 ---
 
-## Achievements
+# Coding Profiles
 
-* Achieved 100 percent score in the Programming section of TCS NQT March 2026
-* Solved more than 150 DSA problems on LeetCode and HackerRank
-* Winner of Crack DSA Quiz on Unstop
+## LeetCode
 
----
+[https://leetcode.com/vikasgabale/](https://leetcode.com/vikasgabale/)
 
-## Coding Profiles
+## HackerRank
 
-LeetCode:
-https://leetcode.com/vikasgabale/
-
-HackerRank:
-https://www.hackerrank.com/vikasgabale9
+[https://www.hackerrank.com/vikasgabale9](https://www.hackerrank.com/vikasgabale9)
 
 ---
 
-## Portfolio
+# Portfolio
 
-https://vikasgabale9.github.io/Portfolio/
+[https://vikasgabale9.github.io/Portfolio/](https://vikasgabale9.github.io/Portfolio/)
 
 ---
 
-## Connect With Me
+# Connect With Me
 
-GitHub:
-https://github.com/Vikasgabale9
+## GitHub
 
-LinkedIn:
-https://www.linkedin.com/in/vikas-gabale
+[https://github.com/Vikasgabale9](https://github.com/Vikasgabale9)
+
+## LinkedIn
+
+[https://www.linkedin.com/in/vikas-gabale](https://www.linkedin.com/in/vikas-gabale)
+
+---
+
+# Profile Summary
+
+Java Backend Developer with hands-on experience building REST APIs, authentication systems, and backend applications using Java and Spring Boot. Focused on backend architecture, secure API development, clean code practices, and practical software engineering.
